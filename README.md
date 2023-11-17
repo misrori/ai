@@ -14,6 +14,28 @@ A Google Bard egy másik LLM, amelyet a Google AI fejlesztett ki. A Google Bard 
 
 A Microsoft Bing Chatbot egy része a Microsoft által kifejlesztett széles körű keresési és nyelvi feldolgozási technológiáknak. Ez a chatbot számos információt nyújt és képes kontextusba helyezni a felhasználói kéréseket.
 
+
+
+##[PIAI Chatbot](https://pi.ai/talk)  
+Ez a chatbot a barátságos és emberi hangulatot hozza létre, így kellemes és könnyű a kommunikáció vele.
+
+##[Elicit Chatbot](https://elicit.com/)  
+Az Elicit Chatbot kifejezetten hasznos publikációk és kutatások kereséséhez, segítve a felhasználókat az információk hatékony megtalálásában.
+
+##[Wolfram Alpha Chatbot](https://www.wolframalpha.com/)  
+A Wolfram Alpha Chatbot kivételesen erős matematikai területen, de ugyanakkor kiterjedt tudással rendelkezik más témákban is.
+
+##[Character AI Chatbot](https://beta.character.ai/)  
+Ez a chatbot lehetőséget nyújt arra, hogy híres személyek karakterével beszélj, egyedi és érdekes interakciókat teremtve.
+
+##[Google TextFX](https://textfx.withgoogle.com/)  
+A Google TextFX szolgáltatás szinonimák kereséséhez és a szövegek javításához nyújt segítséget, valamint bemutatja a nyelvi variációkat.
+
+##[DreamGift Chatbot](https://dreamgift.ai/chat)  
+A DreamGift Chatbot személyre szabott ajándékjavaslatokkal szolgál, segítve a felhasználókat egyedi ötletekkel és inspirációval.
+
+
+
 # Jó promptok tervezése
 
 A jó promptok tervezésekor a következő szempontokat kell figyelembe venni:
