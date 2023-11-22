@@ -168,20 +168,20 @@ Ezek az eszközök számos különböző funkciót kínálnak a képek testresza
 
 
 ## Saját model:
-### [Stabel diffusion]('https://github.com/misrori/ai/blob/main/stable_diffusion.ipynb')
-[Artists]('https://stablediffusion.fr/artists')
+### [Stabel diffusion](https://github.com/misrori/ai/blob/main/stable_diffusion.ipynb)
+[Artists](https://stablediffusion.fr/artists)
 
-### [Saját model épités]('https://github.com/misrori/ai/blob/main/DreamBooth_train_your_own_model.ipynb')
+### [Saját model épités](https://github.com/misrori/ai/blob/main/DreamBooth_train_your_own_model.ipynb)
 
-### [Saját kép generáslás]('https://github.com/misrori/ai/blob/main/stable_diffusion_own_model.ipynb')
+### [Saját kép generáslás](https://github.com/misrori/ai/blob/main/stable_diffusion_own_model.ipynb)
 
-### [lexica]('https://lexica.art/')
+### [lexica](https://lexica.art/)
 Promt ötletek
 
-### [Birme]('https://www.birme.net/')
+### [Birme](https://www.birme.net/)
 Képek méretezése
 
-### [Huggingface]('https://huggingface.co/')
+### [Huggingface](https://huggingface.co/)
 
 Modellek böngészése, tárolása
 
@@ -189,20 +189,20 @@ Modellek böngészése, tárolása
 
 ## Animation
 
-### [Leiapix]('https://convert.leiapix.com/animation')
+### [Leiapix](https://convert.leiapix.com/animation)
 Kép feltöltése animáláshoz
 
-### [Gyerek rajz animation]('https://sketch.metademolab.com/')
+### [Gyerek rajz animation](https://sketch.metademolab.com/)
 Gyerekrajzból készít animációt
 
-### [Upscale]('https://www.capcut.com/')
+### [Upscale](https://www.capcut.com/)
 
 ## Text to video
 
-### [Pika Labs]('https://discord.com/invite/pika')
+### [Pika Labs](https://discord.com/invite/pika)
 
-### [Runway ml]('https://app.runwayml.com/')
-[minta]('https://app.runwayml.com/creation/02140fcb-b921-44e3-9f6a-938b2101c0f8')
+### [Runway ml](https://app.runwayml.com/)
+[minta](https://app.runwayml.com/creation/02140fcb-b921-44e3-9f6a-938b2101c0f8)
 
 
 
