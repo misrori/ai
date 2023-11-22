@@ -2,36 +2,36 @@
 
 ChatGPT, Google Bard, és Microsoft Bing. Mindhárom rendszer izgalmas és egyedi módon használja az mesterséges intelligenciát a felhasználókkal történő kommunikációban.
 
-## [ChatGPT](https://www.openai.com/)
+## [ChatGPT](https://www.openai.com/){:target="_blank"}
 
 A ChatGPT egy OpenAI által fejlesztett chatbot, amely a GPT-3.5 architektúrát használja. A rendszer hatalmas mennyiségű adaton keresztül tanult és képes intelligens válaszokat generálni a felhasználói kérdésekre.
 
-## [Google Bard](https://bard.google.com/chat)
+## [Google Bard](https://bard.google.com/chat){:target="_blank"}
 
 A Google Bard egy másik LLM, amelyet a Google AI fejlesztett ki. A Google Bard hasonló képességekkel rendelkezik, mint a ChatGPT, de a Google által fejlesztett nagyobb adatkészleten képezték ki. 
 
-## [Microsoft Bing Chatbot](https://bing.com/chat)
+## [Microsoft Bing Chatbot](https://bing.com/chat){:target="_blank"}
 
 A Microsoft Bing Chatbot egy része a Microsoft által kifejlesztett széles körű keresési és nyelvi feldolgozási technológiáknak. Ez a chatbot számos információt nyújt és képes kontextusba helyezni a felhasználói kéréseket.
 
 
 
-## [PI AI Chatbot](https://pi.ai/talk)  
+## [PI AI Chatbot](https://pi.ai/talk){:target="_blank"}  
 Ez a chatbot a barátságos és emberi hangulatot hozza létre, így kellemes és könnyű a kommunikáció vele.
 
-## [Elicit Chatbot](https://elicit.com/)  
+## [Elicit Chatbot](https://elicit.com/){:target="_blank"}  
 Az Elicit Chatbot kifejezetten hasznos publikációk és kutatások kereséséhez, segítve a felhasználókat az információk hatékony megtalálásában.
 
-## [Wolfram Alpha Chatbot](https://www.wolframalpha.com/)  
+## [Wolfram Alpha Chatbot](https://www.wolframalpha.com/){:target="_blank"}  
 A Wolfram Alpha Chatbot kivételesen erős matematikai területen, de ugyanakkor kiterjedt tudással rendelkezik más témákban is.
 
-## [Character AI Chatbot](https://beta.character.ai/)  
+## [Character AI Chatbot](https://beta.character.ai/){:target="_blank"}  
 Ez a chatbot lehetőséget nyújt arra, hogy híres személyek karakterével beszélj, egyedi és érdekes interakciókat teremtve.
 
-## [Google TextFX](https://textfx.withgoogle.com/)  
+## [Google TextFX](https://textfx.withgoogle.com/){:target="_blank"}  
 A Google TextFX szolgáltatás szinonimák kereséséhez és a szövegek javításához nyújt segítséget, valamint bemutatja a nyelvi variációkat.
 
-## [DreamGift Chatbot](https://dreamgift.ai/chat)  
+## [DreamGift Chatbot](https://dreamgift.ai/chat){:target="_blank"}  
 A DreamGift Chatbot személyre szabott ajándékjavaslatokkal szolgál, segítve a felhasználókat egyedi ötletekkel és inspirációval.
 
 
@@ -117,31 +117,31 @@ IMPORTANT: Avoid words or concepts that go against terms of service. Do not infr
 
 ## Képgeneráló Eszközök és Linkek
 
-### 1. [Bing Képgenerátor](https://www.bing.com/images/create)
+### 1. [Bing Képgenerátor](https://www.bing.com/images/create){:target="_blank"}
 
 A Bing Képgenerátor eszköze lehetővé teszi kreatív képek létrehozását különböző algoritmusok felhasználásával. Fedezd fel a lehetőségeket és hozz létre egyedi vizuális tartalmakat!
 
-### 2. [Leonardo AI Generations](https://app.leonardo.ai/ai-generations)
+### 2. [Leonardo AI Generations](https://app.leonardo.ai/ai-generations){:target="_blank"}
 
 A Leonardo AI Generations egy fejlett AI-alapú képgenerátor, amely segítségével valósághű és lenyűgöző képeket hozhatsz létre.
 
-### 3. [Playground AI](https://playgroundai.com/)
+### 3. [Playground AI](https://playgroundai.com/){:target="_blank"}
 
 A Playground AI egy online platform, amelyen különféle mesterséges intelligencia algoritmusokkal játszhatsz és különböző típusú képeket generálhatsz.
 
-### 4. [Adobe Firefly](https://firefly.adobe.com/)
+### 4. [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}
 
 Az Adobe Firefly egy professzionális grafikai eszköz, amely segítségével kreatív képeket, illusztrációkat hozhatsz létre.
 
-### 5. [Adobe Express](https://new.express.adobe.com/)
+### 5. [Adobe Express](https://new.express.adobe.com/){:target="_blank"}
 
 Az Adobe Express egy könnyen használható online szerkesztő, ahol gyorsan és egyszerűen fejlesztheted képeidet.
 
-### 6. [Dream Studio AI](https://beta.dreamstudio.ai/generate)
+### 6. [Dream Studio AI](https://beta.dreamstudio.ai/generate){:target="_blank"}
 
 A Dream Studio AI egy béta verziójú eszköz, amely lehetővé teszi a képek különböző aspektusainak generálását és testreszabását.
 
-### 7. [Canva](https://www.canva.com/)
+### 7. [Canva](https://www.canva.com/){:target="_blank"}
 
 A Canva egy sokoldalú platform, amely számos tervezési eszközt kínál, ideértve a képgenerálást is.
 
@@ -168,20 +168,20 @@ Ezek az eszközök számos különböző funkciót kínálnak a képek testresza
 
 
 ## Saját model:
-### [Stabel diffusion](https://github.com/misrori/ai/blob/main/stable_diffusion.ipynb)
-[Artists](https://stablediffusion.fr/artists)
+### [Stabel diffusion](https://github.com/misrori/ai/blob/main/stable_diffusion.ipynb){:target="_blank"}
+[Artists](https://stablediffusion.fr/artists){:target="_blank"}
 
-### [Saját model épités](https://github.com/misrori/ai/blob/main/DreamBooth_train_your_own_model.ipynb)
+### [Saját model épités](https://github.com/misrori/ai/blob/main/DreamBooth_train_your_own_model.ipynb){:target="_blank"}
 
-### [Saját kép generáslás](https://github.com/misrori/ai/blob/main/stable_diffusion_own_model.ipynb)
+### [Saját kép generáslás](https://github.com/misrori/ai/blob/main/stable_diffusion_own_model.ipynb){:target="_blank"}
 
-### [lexica](https://lexica.art/)
+### [lexica](https://lexica.art/){:target="_blank"}
 Promt ötletek
 
-### [Birme](https://www.birme.net/)
+### [Birme](https://www.birme.net/){:target="_blank"}
 Képek méretezése
 
-### [Huggingface](https://huggingface.co/)
+### [Huggingface](https://huggingface.co/){:target="_blank"}
 
 Modellek böngészése, tárolása
 
@@ -189,20 +189,20 @@ Modellek böngészése, tárolása
 
 ## Animation
 
-### [Leiapix](https://convert.leiapix.com/animation)
+### [Leiapix](https://convert.leiapix.com/animation){:target="_blank"}
 Kép feltöltése animáláshoz
 
-### [Gyerek rajz animation](https://sketch.metademolab.com/)
+### [Gyerek rajz animation](https://sketch.metademolab.com/){:target="_blank"}
 Gyerekrajzból készít animációt
 
-### [Upscale](https://www.capcut.com/)
+### [Upscale](https://www.capcut.com/){:target="_blank"}
 
 ## Text to video
 
-### [Pika Labs](https://discord.com/invite/pika)
+### [Pika Labs](https://discord.com/invite/pika){:target="_blank"}
 
-### [Runway ml](https://app.runwayml.com/)
-[minta](https://app.runwayml.com/creation/02140fcb-b921-44e3-9f6a-938b2101c0f8)
+### [Runway ml](https://app.runwayml.com/){:target="_blank"}
+[minta](https://app.runwayml.com/creation/02140fcb-b921-44e3-9f6a-938b2101c0f8){:target="_blank"}
 
 
 
