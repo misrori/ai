@@ -1,3 +1,4 @@
+# https://github.com/misrori/ai
 # AI Chatbotok 
 
 ChatGPT, Google Bard, és Microsoft Bing. Mindhárom rendszer izgalmas és egyedi módon használja az mesterséges intelligenciát a felhasználókkal történő kommunikációban.
