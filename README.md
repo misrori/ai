@@ -145,6 +145,8 @@ A Dream Studio AI egy béta verziójú eszköz, amely lehetővé teszi a képek 
 
 A Canva egy sokoldalú platform, amely számos tervezési eszközt kínál, ideértve a képgenerálást is.
 
+
+
 ## Hasznos Funkciók
 
 Ezek az eszközök számos különböző funkciót kínálnak a képek testreszabásához:
@@ -163,6 +165,48 @@ Ezek az eszközök számos különböző funkciót kínálnak a képek testresza
 2. Regisztrálj vagy jelentkezz be a fiókodba.
 3. Használd az eszköz által kínált funkciókat a képek létrehozásához és testreszabásához.
 4. Mentse el és ossza meg az elkészült képeket.
+
+
+## Saját model:
+### [Stabel diffusion]('https://github.com/misrori/ai/blob/main/stable_diffusion.ipynb')
+[Artists]('https://stablediffusion.fr/artists')
+
+### [Saját model épités]('https://github.com/misrori/ai/blob/main/DreamBooth_train_your_own_model.ipynb')
+
+### [Saját kép generáslás]('https://github.com/misrori/ai/blob/main/stable_diffusion_own_model.ipynb')
+
+### [lexica]('https://lexica.art/')
+Promt ötletek
+
+### [Birme]('https://www.birme.net/')
+Képek méretezése
+
+### [Huggingface]('https://huggingface.co/')
+
+Modellek böngészése, tárolása
+
+
+
+## Animation
+
+### [Leiapix]('https://convert.leiapix.com/animation')
+Kép feltöltése animáláshoz
+
+### [Gyerek rajz animation]('https://sketch.metademolab.com/')
+Gyerekrajzból készít animációt
+
+### [Upscale]('https://www.capcut.com/')
+
+## Text to video
+
+### [Pika Labs]('https://discord.com/invite/pika')
+
+### [Runway ml]('https://app.runwayml.com/')
+[minta]('https://app.runwayml.com/creation/02140fcb-b921-44e3-9f6a-938b2101c0f8')
+
+
+
+
 
 ### Képgenerálás Teszt Promp Ötletek
 
