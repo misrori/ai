@@ -1,5 +1,7 @@
 # [bit.ly/ceuai](https://bit.ly/ceuai)
 # AI Chatbotok 
+https://app.presentations.ai/view/toBrHl
+https://chat.openai.com/share/a9d0ef0f-4bd4-4da5-b425-6f7dca98a95b
 
 ChatGPT, Google Bard, és Microsoft Bing. Mindhárom rendszer izgalmas és egyedi módon használja az mesterséges intelligenciát a felhasználókkal történő kommunikációban.
 
