@@ -8,7 +8,11 @@ SeeYou@CEU
 
 [machine learning](https://chat.openai.com/share/a9d0ef0f-4bd4-4da5-b425-6f7dca98a95b)
 
-chrome-extension://lpfemeioodjbpieminkklglpmhlngfcn/pages/options/options.html#/search-with-ai
+[neural networks in 1 minute](https://www.youtube.com/watch?v=rEDzUT3ymw4)
+
+[chrome-extension://lpfemeioodjbpieminkklglpmhlngfcn/pages/options/options.html](https://chromewebstore.google.com/detail/webchatgpt-chatgpt-intern/lpfemeioodjbpieminkklglpmhlngfcn)
+
+#/search-with-ai
 
 ChatGPT, Google Bard, és Microsoft Bing. Mindhárom rendszer izgalmas és egyedi módon használja az mesterséges intelligenciát a felhasználókkal történő kommunikációban.
 
