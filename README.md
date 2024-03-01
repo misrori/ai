@@ -12,7 +12,9 @@ SeeYou@CEU
 
 [chrome-extension webchatgpt](https://chromewebstore.google.com/detail/webchatgpt-chatgpt-intern/lpfemeioodjbpieminkklglpmhlngfcn)
 
-[How chatGpt works](https://www.youtube.com/watch?v=4qGrteTY1EM)
+[How ChatGpt works](https://www.youtube.com/watch?v=4qGrteTY1EM)
+
+[LLM](https://www.youtube.com/watch?v=zizonToFXDs)
 
 #/search-with-ai
 
