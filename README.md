@@ -10,7 +10,9 @@ SeeYou@CEU
 
 [neural networks in 1 minute](https://www.youtube.com/watch?v=rEDzUT3ymw4)
 
-[chrome-extension://lpfemeioodjbpieminkklglpmhlngfcn/pages/options/options.html](https://chromewebstore.google.com/detail/webchatgpt-chatgpt-intern/lpfemeioodjbpieminkklglpmhlngfcn)
+[chrome-extension webchatgpt](https://chromewebstore.google.com/detail/webchatgpt-chatgpt-intern/lpfemeioodjbpieminkklglpmhlngfcn)
+
+[How chatGpt works](https://www.youtube.com/watch?v=4qGrteTY1EM)
 
 #/search-with-ai
 
