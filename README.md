@@ -16,7 +16,14 @@ SeeYou@CEU
 
 [LLM](https://www.youtube.com/watch?v=zizonToFXDs)
 
-#/search-with-ai
+# Feladatok
+[itt](https://chat.openai.com/share/1f510fa0-14d9-41a4-a948-ae8cfa3c5f16)
+
+- Cover letter
+- Pályázat írás
+- Állás jelentkezés
+
+# search-with-ai
 
 ChatGPT, Google Bard, és Microsoft Bing. Mindhárom rendszer izgalmas és egyedi módon használja az mesterséges intelligenciát a felhasználókkal történő kommunikációban.
 
