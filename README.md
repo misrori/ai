@@ -17,12 +17,15 @@ SeeYou@CEU
 [LLM](https://www.youtube.com/watch?v=zizonToFXDs)
 
 # Feladatok
+[slack](https://join.slack.com/t/ceuai/shared_invite/zt-2eaj9z85f-RF6FRs7YiS44boSP7RKtzA)
 [itt](https://chat.openai.com/share/1f510fa0-14d9-41a4-a948-ae8cfa3c5f16)
 
 - Cover letter
 - Pályázat írás
 - Állás jelentkezés
 
+[prezi promt](https://chat.openai.com/share/62198fc6-7ea4-4d37-aba9-db3200515db2)
+[quiz promt](https://chat.openai.com/share/9ce635c9-70bb-4a33-835d-700ed7fa5dc9)
 # search-with-ai
 
 ChatGPT, Google Bard, és Microsoft Bing. Mindhárom rendszer izgalmas és egyedi módon használja az mesterséges intelligenciát a felhasználókkal történő kommunikációban.
