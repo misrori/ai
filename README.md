@@ -153,6 +153,7 @@ IMPORTANT: Avoid words or concepts that go against terms of service. Do not infr
 [prompt parameters](https://chat.openai.com/share/142fffc2-6ce5-4eaf-a5bb-b6cc8749c84a) 
 
 [stilusok](https://stablediffusion.fr/artists)
+[more styles](https://supagruen.github.io/StableDiffusion-CheatSheet/)
 
 ### 1. [Bing Képgenerátor](https://www.bing.com/images/create)
 
