@@ -152,6 +152,8 @@ IMPORTANT: Avoid words or concepts that go against terms of service. Do not infr
 
 [prompt parameters](https://chat.openai.com/share/142fffc2-6ce5-4eaf-a5bb-b6cc8749c84a) 
 
+[stilusok](https://stablediffusion.fr/artists)
+
 ### 1. [Bing Képgenerátor](https://www.bing.com/images/create)
 
 A Bing Képgenerátor eszköze lehetővé teszi kreatív képek létrehozását különböző algoritmusok felhasználásával. Fedezd fel a lehetőségeket és hozz létre egyedi vizuális tartalmakat!
