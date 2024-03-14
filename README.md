@@ -147,6 +147,11 @@ IMPORTANT: Avoid words or concepts that go against terms of service. Do not infr
 
 ## Képgeneráló Eszközök és Linkek
 
+[promt_ideas](https://chat.openai.com/share/680ea6ef-0d10-4c93-a7ce-9ce60e35780b)
+
+
+[prompt parameters](https://chat.openai.com/share/142fffc2-6ce5-4eaf-a5bb-b6cc8749c84a) 
+
 ### 1. [Bing Képgenerátor](https://www.bing.com/images/create)
 
 A Bing Képgenerátor eszköze lehetővé teszi kreatív képek létrehozását különböző algoritmusok felhasználásával. Fedezd fel a lehetőségeket és hozz létre egyedi vizuális tartalmakat!
