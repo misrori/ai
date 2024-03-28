@@ -304,6 +304,7 @@ https://gptforwork.com/help
 
 # Maradj Friss
 https://www.futurepedia.io/
+
 https://www.futuretools.io/
 
 
