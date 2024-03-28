@@ -292,3 +292,18 @@ Gyerekrajzból készít animációt
     - *Promt* "Kérek egy képet amin egy művész fest egy háromfejű szörnyeteget"
     - "An artist sitting and painting on canvas a 3 headed monster"  
 
+
+# Prezi
+
+https://app.presentations.ai/
+
+
+# Exel
+https://gptforwork.com/help
+
+
+# Maradj Friss
+https://www.futurepedia.io/
+https://www.futuretools.io/
+
+
