@@ -4,6 +4,14 @@ CEU_guest
 
 SeeYou@CEU
 
+
+https://ceu-edu.zoom.us/j/93137160684?pwd=amZBaTdBazYrYW03cDJzMHpOMHk0QT09
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=E1nE2VN24kuSC72wOGOBhK_bq25pxFpMnElwKfAS2llUMVBSNEVXMlZPNEQ4OERPQ1YzOUMwRk9GTS4u
+
+
+
+
 [prezi](https://app.presentations.ai/view/toBrHl)
 
 [machine learning](https://chat.openai.com/share/a9d0ef0f-4bd4-4da5-b425-6f7dca98a95b)
