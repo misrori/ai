@@ -316,3 +316,8 @@ https://www.futurepedia.io/
 https://www.futuretools.io/
 
 
+# Zene
+https://suno.com/create
+
+
+
