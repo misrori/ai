@@ -24,9 +24,9 @@
 [LLM](https://www.youtube.com/watch?v=zizonToFXDs)
 
 # Feladatok
-[Telegram](https://t.me/+WynUTyVict9jNzA0)
+[Csatlakozz a Telegram csoporthoz](https://t.me/+WynUTyVict9jNzA0)
 
-[feladatok](https://chat.openai.com/share/1f510fa0-14d9-41a4-a948-ae8cfa3c5f16)
+[Feladatok](https://chat.openai.com/share/1f510fa0-14d9-41a4-a948-ae8cfa3c5f16)
 
 - Cover letter
 - Pályázat írás
