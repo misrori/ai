@@ -2,11 +2,15 @@
 # AI workshop 
 
 ## Wifi
-CEU_guest
-SeeYou@CEU
+- CEU_guest
+- SeeYou@CEU
+
+## Terem változás N13 118
+- február 20-án 
+- március 20-án 
 
 
-
+## AI evolució
 [prezi](https://app.presentations.ai/view/toBrHl)
 
 [machine learning](https://chat.openai.com/share/a9d0ef0f-4bd4-4da5-b425-6f7dca98a95b)
