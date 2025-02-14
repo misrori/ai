@@ -10,6 +10,7 @@
 - március 20-án 
 
 
+
 ## AI evolució
 [prezi](https://app.presentations.ai/view/toBrHl)
 
