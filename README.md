@@ -26,6 +26,8 @@
 
 # Feladatok
 [Csatlakozz a Telegram csoporthoz](https://t.me/+WynUTyVict9jNzA0)
+
+
 https://web.telegram.org/a/
 
 
