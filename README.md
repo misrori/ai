@@ -53,6 +53,7 @@ Ebben a dokumentumban a legnépszerűbb mesterséges intelligencia alapú chatbo
 - Hosszabb és összetettebb válaszokat ad
 - Nagyméretű kontextusablakot képes kezelni
 - API-n keresztül integrálható alkalmazásokba
+
 **Hátrányok:**
 - Zárt forráskódú
 - Időnként pontatlan válaszokat adhat
@@ -68,6 +69,7 @@ Ebben a dokumentumban a legnépszerűbb mesterséges intelligencia alapú chatbo
 - Integrált a Google ökoszisztémájába
 - Folyamatosan frissülő adatbázis a kereső miatt
 - Erős kódolási képességek
+
 **Hátrányok:**
 - Kevésbé strukturált válaszok hosszabb kérdéseknél
 - Nem mindig ad pontos válaszokat kódolási kérdésekben
@@ -82,6 +84,7 @@ Ebben a dokumentumban a legnépszerűbb mesterséges intelligencia alapú chatbo
 - Valós idejű keresési képességek
 - Jól működik a Microsoft termékekkel (Word, Excel, stb.)
 - AI-alapú képgenerálás is elérhető
+
 **Hátrányok:**
 - Kevésbé természetes nyelvi válaszok, mint a ChatGPT
 - Bizonyos esetekben túl rövid válaszokat ad
@@ -96,6 +99,7 @@ Ebben a dokumentumban a legnépszerűbb mesterséges intelligencia alapú chatbo
 - Etikusabb és kevésbé hajlamos toxikus válaszokra
 - Hosszabb kontextusablak kezelése
 - Jobban szabályozott generált tartalom
+
 **Hátrányok:**
 - Kevésbé széles körben elérhető
 - Nem mindig olyan kreatív, mint a versenytársai
@@ -109,6 +113,7 @@ Ebben a dokumentumban a legnépszerűbb mesterséges intelligencia alapú chatbo
 **Előnyök:**
 - Open-source AI alternatíva
 - Nagyon erős kódgenerálási képességek
+
 **Hátrányok:**
 - Kevésbé ismert és kisebb közösségi támogatás
 
@@ -121,6 +126,7 @@ Ebben a dokumentumban a legnépszerűbb mesterséges intelligencia alapú chatbo
 **Előnyök:**
 - Nagy teljesítményű és gyors válaszok
 - Open-source modellek elérhetők
+
 **Hátrányok:**
 - Nem olyan széles körben integrált, mint a Google vagy OpenAI modellek
 
@@ -134,6 +140,7 @@ Ebben a dokumentumban a legnépszerűbb mesterséges intelligencia alapú chatbo
 - Extrém gyors válaszidő
 - Hatékonyabb futtatás alacsonyabb költségekkel
 - AI-inferálásra optimalizált architektúra
+
 **Hátrányok:**
 - Még nem annyira elterjedt
 - Kevesebb integrációs lehetőség
