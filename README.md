@@ -253,7 +253,7 @@ Ez az összehasonlítás segíthet eldönteni, hogy melyik AI chatbot felel meg 
 🚀 **Próbáld ki mindet, és fedezd fel, melyik AI chatbot a legjobb számodra!**
 
 
-🧠 AI Agentek: Miért különböznek a chatbotoktól?
+## 🧠 AI Agentek: Miért különböznek a chatbotoktól?
 
 Mi az az AI Agent?
 
