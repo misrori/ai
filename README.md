@@ -267,7 +267,6 @@ Miben különböznek a chatbotoktól?
 
 Hol lehet AI agenteket kipróbálni?
 
-[adat]('https://github.com/misrori/rdata/blob/main/ExpectedLifetimes.csv')
 [Készíts naptár bejegyzést a Gemini-vel](https://gemini.google.com)
 
 Hol lehet további infót találni?
@@ -292,7 +291,10 @@ Az AI agentek olyan fejlettebb rendszerek, amelyek nem csak kérdésekre válasz
 
 ## Adatelemzés ChatGPT és Google Colab segítségével
 Az alábbi linken elérhető egy beszélgetés és annak promptja, amely bemutatja, hogyan használható ChatGPT adatelemzéshez Pythonban Google Colab környezetben.
+
+
 [adat](https://github.com/misrori/rdata/blob/main/ExpectedLifetimes.csv)
+
 
 👉 [Adatelemzés ChatGPT és Google Colab](https://chatgpt.com/share/67c074a4-24ac-8006-84d3-b0ac48fec84e) 
 
