@@ -267,6 +267,7 @@ Miben különböznek a chatbotoktól?
 
 Hol lehet AI agenteket kipróbálni?
 
+[adat]('https://github.com/misrori/rdata/blob/main/ExpectedLifetimes.csv')
 [Készíts naptár bejegyzést a Gemini-vel](https://gemini.google.com)
 
 Hol lehet további infót találni?
