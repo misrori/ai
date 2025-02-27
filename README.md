@@ -285,7 +285,7 @@ Az AI agentek olyan fejlettebb rendszerek, amelyek nem csak kérdésekre válasz
 - Több lépésből álló feladatok elvégzése
 
 ### Kipróbálható AI agentek:
-- **Auto-GPT**: [GitHub](https://github.com/Torantulino/Auto-GPT)
+- **Auto-GPT**: [GitHub](https://github.com/Torantulino/Auto-GPT) és egy video: [video](https://www.youtube.com/watch?v=bJ2LLsssnzQ)
 - **BabyAGI**: [GitHub](https://github.com/yoheinakajima/babyagi)
 - **AgentGPT**: [Weboldal](https://agentgpt.reworkd.ai/)
 
