@@ -382,3 +382,25 @@ Ezek az eszközök számos különböző funkciót kínálnak a képek testresza
 - AI chatbotok és agentek fejlesztése: [OpenAI Dokumentáció](https://openai.com/research/)
 - AI képgenerálás: [Hugging Face Model Library](https://huggingface.co/models)
 
+
+
+# **Excel és prezentációk**
+
+## **1. Google Sheets és App Script integráció**
+Az első feladat során egy **App Scriptet** csatolunk a **Google Sheetshez**, amely lehetővé teszi, hogy **ChatGPT-vel** közvetlenül a táblázatból kommunikáljunk.  
+Az **App Script már elkészült**, így a cél az, hogy ezt hozzáadjuk a táblázathoz, majd **kipróbáljuk a működését**.
+
+## **2. Excel-es kiegészítés: TheBricks**
+Az **[TheBricks.com](https://www.thebricks.com/)** egy **online Excel-es tutorial és eszköztár**, amely segíthet a táblázatkezelési feladatok automatizálásában és hatékonyabb használatában.
+
+---
+
+## **3. Prezentációkészítő eszközök bemutatása**
+Három különböző **online eszközt** nézünk meg, amelyekkel **hatékony prezentációkat** lehet létrehozni:
+
+- **[Slidesgo](https://slidesgo.com/)** – Sablonok széles választéka különböző témákhoz.
+- **[Presentations.AI](https://presentations.ai/)** – AI-alapú prezentációkészítő eszköz.
+- **[Powered Template](https://ai.poweredtemplate.com/generate/)** – Testreszabható sablonok generálása.
+
+---
+
