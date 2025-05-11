@@ -1,3 +1,5 @@
+https://docs.google.com/forms/d/e/1FAIpQLSfoEPkgU52u6H3-iJZdXgBErlMeAlkIuaJJ7KqDqh0duzseEg/viewform?urp=gmail_link
+
 # [bit.ly/ceuai](https://bit.ly/ceuai)
 # AI workshop 
 
